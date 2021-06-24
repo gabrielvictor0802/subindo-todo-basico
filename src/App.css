@@ -1,0 +1,45 @@
+h1{
+    color:#E0FFFF ;
+}
+
+button{
+    border-radius: 20%;
+    height: 3rem;
+    width: 10%;
+}
+
+.escrever{
+    display: flex;
+    justify-content: center;
+    width: 50%;
+}
+
+.lista{
+    list-style: none;
+    width: 40rem;
+    font-size: 2rem;
+}
+
+.lista2{
+    display: flex;
+
+    justify-content: space-between;
+}
+
+
+.todo1{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+input{
+    height: 3rem;
+    border-radius: 30%;
+    width: 70%;
+}
+
+body{
+    background-color: #1E90FF;
+}
